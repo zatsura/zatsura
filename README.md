@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zatsura
+- 👋 Hi, I’m @pandora
 - 👀 I’m interested in Bioinformatics and verous tools for genomic data science
 - 🌱 I’m currently learning the biopthon and intorduction genomic data science
 - 💞️ I’m looking to collaborate on transcriptomic analysis as well as for genomic data science .
